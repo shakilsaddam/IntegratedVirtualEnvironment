@@ -25,4 +25,4 @@ echo -e "\nConfiguring End Points for $app_name Application"
 sleep 3
 echo -e "\nApp $app_name can be accessed by using the following credentials"
 sleep 2
-echo -e "\nSubdomain: $app_name.shakil.me\nServer IP: 192.168.1.64\nDefault Username | Password: admin | admin "
+echo -e "\nSubdomain: $app_name.shakil.me\nServer IP: 192.168.1.64\nDefault Username | Password: root | admin "
